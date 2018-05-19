@@ -1,0 +1,27 @@
+.logo img {
+    display: block;
+    margin-top: 10em;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.contacts {
+    display: block;
+    margin-top: 2em;
+    /* margin-right: auto;
+    margin-left: auto; */
+}
+
+.fb {
+    display: inline-block;
+    margin-right: 3em;
+}
+
+.mail {
+    display: inline-block;
+    margin-right: 3em;
+}
+
+.tel {
+    display: inline-block;
+}
